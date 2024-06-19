@@ -1,0 +1,13 @@
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe.config
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.pdb
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\bin\Release\Engine.dll
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\bin\Release\Engine.pdb
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.AssemblyReference.cache
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.Properties.Resources.resources
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.SuperAdventure.resources
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.cache
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\obj\Release\SuperAdv.5A2A7CD7.Up2Date
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.exe
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.pdb

@@ -1,0 +1,6 @@
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Ashhad's Folder\Coding stuff\SuperAdventure_C#_RPG\SuperAdventure\Engine\obj\Debug\Engine.pdb

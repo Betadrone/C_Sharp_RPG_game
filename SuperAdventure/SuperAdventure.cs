@@ -454,6 +454,7 @@ namespace SuperAdventure
 
         }
 
+        // Make sure the messages are seen
         private void ScrollToBottomOfMessages()
         {
             rtbMessages.SelectionStart = rtbMessages.Text.Length;
